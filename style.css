@@ -429,7 +429,7 @@ img {
 	}
 }
 
-@keyframes scrolldown {
+/* @keyframes scrolldown {
 	from {
 		opacity: 0;
 		transform: translateY(-100px);
@@ -438,7 +438,7 @@ img {
 		opacity: 1;
 		transform: translateY(0);
 	}
-}
+} */
 
 /*End Keyframes*/
 
